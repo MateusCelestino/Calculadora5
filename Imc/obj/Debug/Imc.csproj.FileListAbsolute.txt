@@ -1,0 +1,7 @@
+C:\Users\Aluno\source\repos\Imc\bin\Debug\Imc.exe.config
+C:\Users\Aluno\source\repos\Imc\bin\Debug\Imc.exe
+C:\Users\Aluno\source\repos\Imc\bin\Debug\Imc.pdb
+C:\Users\Aluno\source\repos\Imc\obj\Debug\Imc.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Imc\obj\Debug\Imc.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Imc\obj\Debug\Imc.exe
+C:\Users\Aluno\source\repos\Imc\obj\Debug\Imc.pdb

@@ -1,0 +1,7 @@
+C:\Users\Aluno\source\repos\HelloWorld\HW2\bin\Debug\HW2.exe.config
+C:\Users\Aluno\source\repos\HelloWorld\HW2\bin\Debug\HW2.exe
+C:\Users\Aluno\source\repos\HelloWorld\HW2\bin\Debug\HW2.pdb
+C:\Users\Aluno\source\repos\HelloWorld\HW2\obj\Debug\HW2.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\HelloWorld\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\HelloWorld\HW2\obj\Debug\HW2.exe
+C:\Users\Aluno\source\repos\HelloWorld\HW2\obj\Debug\HW2.pdb
